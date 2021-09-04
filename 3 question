@@ -1,0 +1,19 @@
+#include <<lostream >>
+Using Namespace std :
+Int main ()
+Int num1, num2, num3,;
+ Cout << " Enter no 1:";
+ Cin >> num1;
+ Cout << " Enter no 2 :";
+ Cin >> num2;
+ Cout>>" Enter no 3:";
+ Cin >>> num3;
+If (num1>num2&&num1>>num3) {
+    Cout <<" number 1 is the largest :" <<num1;
+} else If (num1>num2&&num1>>num3) {
+    Cout <<" number 2 is the largest :" <<num2;
+} else {
+  Cout <<" number 3 is the largest :"<<endI <<num3;
+}
+return 0 :
+}

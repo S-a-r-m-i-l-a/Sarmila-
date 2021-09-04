@@ -1,0 +1,15 @@
+#include <stdio. h>
+main()
+{
+   Int n, F1, F2, F3;
+    Print("Enter n") ;
+    Scanf("%d", & n) ;
+    F1=0;
+    F2=1;
+    Print ("%d\t%d", F1, F2) ;
+    F3=F1+F2;
+    while (F3<=n)
+    Print ("\t%d", F3) ;
+       F1=F2;
+       F2=F3;
+       F3=F1+F2;

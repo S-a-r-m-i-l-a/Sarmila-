@@ -1,0 +1,21 @@
+#include
+Using Namespace std ;
+Int main ()
+{
+Int year ;
+Cout <<"Enter a year:" ;
+Cin>> year ;
+If ( year % 4 ==0) {
+If(year % 100 == 0) {
+If( year % 400==0)
+Cout << year << "is a leep years" ;
+else
+Cout << year << is not a leep years. ";
+}
+else
+Cout << year <<" is a leep years. ";
+} 
+else
+Cout<< year << is not a leep years." ;
+} 
+

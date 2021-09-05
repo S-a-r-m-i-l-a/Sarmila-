@@ -1,0 +1,7 @@
+n=int (input ("Enter number of rows needed :")
+for i in range() :
+   for j inrange() :
+IN FIRST ROW:
+    Print star/number in all required columns
+IN SECOND ROW:
+     print star/number in all required columns

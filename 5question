@@ -1,0 +1,15 @@
+#include <stdioh>
+main()
+{
+   int i, n, count=0;
+   prints("Enter n")
+   scanf("%d", & n),
+   For(i=1;i<=n;i++)
+{
+       if(n%i==0)
+         count=count+1;
+        If (coun==2)
+          print("%d is Prime number", n) ;
+         else
+           printf("%d is not apotno", n) ;
+} 
